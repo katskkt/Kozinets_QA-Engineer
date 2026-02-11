@@ -18,7 +18,8 @@
 * Postman,
 * Word, 
 * Visual Studio Code, 
-* JMetter.
+* JMetter,
+* IDEA.
 
 ### Hard skills: 
 * Знание и применение видов тестирования, техник тест-дизайна; 
